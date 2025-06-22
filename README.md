@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The official Redium framework package — a PHP framework designed for fast and quick web development.
+Ridium is a light weight PHP based framework which is going to save you time and enegry and dive right in building web apps.
 
 ## Installation
 
@@ -31,3 +31,5 @@ You can install the package via Composer:
 # Contributing
 
     Contributions are welcome! Please open issues or submit pull requests. I will be super duper glad ):
+
+![Logo](https://raw.githubusercontent.com/redox132/Ridium/main/images/mypic.png)
