@@ -1,6 +1,7 @@
 {
     "name": "ridium/framework",
     "description": "the official Redium framework package",
+     "license": "MIT",  
     "autoload": {
         "psr-4": {
             "RidiumFramework\\": "ridiumFramework/"
@@ -17,5 +18,7 @@
             "type": "vcs",
             "url": "https://github.com/ridaelkouri/framework"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
