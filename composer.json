@@ -1,7 +1,10 @@
 {
     "name": "ridium/framework",
-    "description": "the official Redium framework package",
-    "license": "MIT",  
+    "description": "The official Ridium framework package",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "homepage": "https://github.com/ridaelkouri/framework",
     "autoload": {
         "psr-4": {
             "RidiumFramework\\": "ridiumFramework/"
@@ -14,12 +17,12 @@
             "homepage": "https://github.com/redox132"
         }
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/ridaelkouri/framework"
         }
-    ],
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    ]
 }
