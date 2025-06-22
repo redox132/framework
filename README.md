@@ -32,4 +32,3 @@ You can install the package via Composer:
 
     Contributions are welcome! Please open issues or submit pull requests. I will be super duper glad ):
 
-![Logo](https://raw.githubusercontent.com/redox132/Ridium/main/images/mypic.png)

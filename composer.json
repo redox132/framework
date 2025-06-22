@@ -1,7 +1,7 @@
 {
     "name": "ridium/framework",
     "description": "the official Redium framework package",
-     "license": "MIT",  
+    "license": "MIT",  
     "autoload": {
         "psr-4": {
             "RidiumFramework\\": "ridiumFramework/"
@@ -10,7 +10,8 @@
     "authors": [
         {
             "name": "rida el kouri",
-            "email": "ridaelkouri@gmail.com"
+            "email": "ridaelkouri@gmail.com",
+            "homepage": "https://github.com/ridaelkouri"
         }
     ],
     "repositories": [
