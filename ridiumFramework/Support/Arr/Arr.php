@@ -4,6 +4,8 @@ namespace RidiumFramework\Support\Arr;
 
 class Arr
 {
+
+    // 
     public static function find(array $array, callable $callback, $default = null)
     {
         foreach ($array as $key) {
