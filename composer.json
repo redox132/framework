@@ -17,8 +17,5 @@
             "type": "vcs",
             "url": "https://github.com/ridaelkouri/framework"
         }
-    ],
-    "require": {
-        "vendor/ridiumframework": "^1.0"
-    }
+    ]
 }
