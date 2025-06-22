@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ridaelkouri/framework"
+            "url": "https://github.com/redox132/framework"
         }
     ]
 }
