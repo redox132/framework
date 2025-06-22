@@ -1,18 +1,23 @@
 {
   "name": "ridium/framework",
-  "description": "The official Ridium framework package",
+  "description": "Ridium Framework Package",
   "type": "library",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "redox132",
+      "email": "ridaelkouri@gmail.com"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "RidiumFramework\\": "ridiumFramework/"
     }
   },
-  "authors": [
-    {
-      "name": "rida el kouri",
-      "email": "ridaelkouri@gmail.com",
-      "homepage": "https://github.com/redox132/framework"
-    }
-  ]
+  "require": {
+    "php": ">=7.4",
+    "fakerphp/faker": "^1.24",
+    "jenssegers/blade": "^2.0",
+    "vlucas/phpdotenv": "^5.6"
+  }
 }
